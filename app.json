@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "nft-market-react-native",
+    "name": "NFT Market",
     "slug": "nft-market-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,7 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "",
+    "description": "Simple React Native App",
     "githubUrl": "https://github.com/jean-louis1776/nft-market-react-native"
   }
 }
