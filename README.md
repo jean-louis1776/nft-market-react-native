@@ -1,4 +1,4 @@
-# NFT Marketplace - Showcase
+# NFT Marketplace - React Native App (Expo SDK)
 
 ![NFT Showcase](https://i.ibb.co/XSXcYsy/image.png)
 
